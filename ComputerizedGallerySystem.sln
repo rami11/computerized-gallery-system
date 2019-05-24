@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComputerizedGallerySystem", "ComputerizedGallerySystem\ComputerizedGallerySystem.csproj", "{C0593824-258D-4D64-87E3-382BFCE332CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0593824-258D-4D64-87E3-382BFCE332CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0593824-258D-4D64-87E3-382BFCE332CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0593824-258D-4D64-87E3-382BFCE332CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0593824-258D-4D64-87E3-382BFCE332CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

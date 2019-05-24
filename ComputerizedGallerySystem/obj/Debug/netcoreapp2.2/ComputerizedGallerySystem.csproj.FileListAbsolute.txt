@@ -1,0 +1,11 @@
+/Users/rsn/RiderProjects/ComputerizedGallerySystem/ComputerizedGallerySystem/bin/Debug/netcoreapp2.2/ComputerizedGallerySystem.deps.json
+/Users/rsn/RiderProjects/ComputerizedGallerySystem/ComputerizedGallerySystem/bin/Debug/netcoreapp2.2/ComputerizedGallerySystem.runtimeconfig.json
+/Users/rsn/RiderProjects/ComputerizedGallerySystem/ComputerizedGallerySystem/bin/Debug/netcoreapp2.2/ComputerizedGallerySystem.runtimeconfig.dev.json
+/Users/rsn/RiderProjects/ComputerizedGallerySystem/ComputerizedGallerySystem/bin/Debug/netcoreapp2.2/ComputerizedGallerySystem.dll
+/Users/rsn/RiderProjects/ComputerizedGallerySystem/ComputerizedGallerySystem/bin/Debug/netcoreapp2.2/ComputerizedGallerySystem.pdb
+/Users/rsn/RiderProjects/ComputerizedGallerySystem/ComputerizedGallerySystem/obj/Debug/netcoreapp2.2/ComputerizedGallerySystem.csprojAssemblyReference.cache
+/Users/rsn/RiderProjects/ComputerizedGallerySystem/ComputerizedGallerySystem/obj/Debug/netcoreapp2.2/ComputerizedGallerySystem.csproj.CoreCompileInputs.cache
+/Users/rsn/RiderProjects/ComputerizedGallerySystem/ComputerizedGallerySystem/obj/Debug/netcoreapp2.2/ComputerizedGallerySystem.AssemblyInfoInputs.cache
+/Users/rsn/RiderProjects/ComputerizedGallerySystem/ComputerizedGallerySystem/obj/Debug/netcoreapp2.2/ComputerizedGallerySystem.AssemblyInfo.cs
+/Users/rsn/RiderProjects/ComputerizedGallerySystem/ComputerizedGallerySystem/obj/Debug/netcoreapp2.2/ComputerizedGallerySystem.dll
+/Users/rsn/RiderProjects/ComputerizedGallerySystem/ComputerizedGallerySystem/obj/Debug/netcoreapp2.2/ComputerizedGallerySystem.pdb
